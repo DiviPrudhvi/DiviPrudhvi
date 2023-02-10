@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040676/Linkedin_Cover_-_Data_Analyst_cb4umx.png)]
 <h1 align="center">Hi 👋, I'm Prudhvi Narayana Divi</h1>
-<h3 align="center">A Student Who is aspiring to be a Data Analyst.</h3>
+<h3 align="center">Aspiring Data Analyst.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diviprudhvi&label=Profile%20views&color=0e75b6&style=flat" alt="diviprudhvi" /> </p>
