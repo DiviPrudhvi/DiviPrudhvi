@@ -1,6 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040676/Linkedin_Cover_-_Data_Analyst_cb4umx.png)
 <h1 align="center">Hi 👋, I'm Prudhvi Narayana Divi</h1>
-<h3 align="center">Aspiring Data Analyst who wants to make a better world with Analytics.</h3>
+<h3 align="center">Data Analyst who wants to make a better world with Analytics using Data with data-driven insights.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diviprudhvi&label=Profile%20views&color=0e75b6&style=flat" alt="diviprudhvi" /> </p>
