@@ -1,13 +1,11 @@
 ![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040676/Linkedin_Cover_-_Data_Analyst_cb4umx.png)
 <h1 align="center">Hi 👋, I'm Prudhvi Narayana Divi</h1>
-<h3 align="center">Data Analyst who wants to make a better world with Analytics using Data with data-driven insights.</h3>
+<h3 align="center">Driven Data Analyst leveraging analytical prowess to transform complex datasets into actionable insights, driving strategic decision-making and business growth.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diviprudhvi&label=Profile%20views&color=0e75b6&style=flat" alt="diviprudhvi" /> </p>
 
-- 🌱 I’m currently learning **SQL, Python, Excel, R , Tableau, Power BI**
-
-- 💬 Ask me about **Data Analytics**
+📊 My Data Toolkit encompasses: Microsoft Power BI | Tableau | MS Excel | Juypter Notebook | Google Colab | SQL | MySQL | PostgreSQL | Azure SQL Database | Python | R | HTML | CSS | JSON | Google BigQuery | JIRA | Confluence | GIT | VSCode | PyCharm | Microsoft Office | Microsoft Azure | DataBricks | Azure AD | Azure Synapse Analytics| Azure Cosmos DB.
 
 - 📫 How to reach me **pd374@nau.edu**
 
