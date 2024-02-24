@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diviprudhvi&label=Profile%20views&color=0e75b6&style=flat" alt="diviprudhvi" /> </p>
 
-- 🌱 I’m currently learning **SQL, Python, Excel, R , TABLEAU**
+- 🌱 I’m currently learning **SQL, Python, Excel, R , TABLEAU, Power BI**
 
 - 💬 Ask me about **Data Analytics**
 
