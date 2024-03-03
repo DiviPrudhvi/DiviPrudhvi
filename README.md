@@ -7,10 +7,10 @@
 
 📊 My Data Toolkit encompasses: Microsoft Power BI | Tableau | MS Excel | Juypter Notebook | Google Colab | SQL | MySQL | PostgreSQL | Azure SQL Database | Python | R | HTML | CSS | JSON | Google BigQuery | JIRA | Confluence | GIT | VSCode | PyCharm | Microsoft Office | Microsoft Azure | DataBricks | Azure AD | Azure Synapse Analytics| Azure Cosmos DB.
 
-- 📫 How to reach me **pd374@nau.edu**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
+- 📫 How to reach me **pd374@nau.edu**
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diviprudhvi&show_icons=true&locale=en&layout=compact" alt="diviprudhvi" /></p>
